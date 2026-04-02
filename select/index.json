@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ボニータ",
+  "base_artist": "syudou",
+  "createdAt": "2026-04-02T15:34:54.590830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボニータ",
+      "artist": "憂歌団",
+      "has_synced": false,
+      "path": "select/01_ボニータ_憂歌団.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボニータ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_ボニータ_syudou.txt"
+    }
+  ]
+}
